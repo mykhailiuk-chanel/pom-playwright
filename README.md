@@ -1,4 +1,4 @@
-# Installation: Cypress + Cucumber example 
+# Installation: Page Object Model (POM) + Playwright 
 
 Welcome to the Page Object Model (POM) + Playwright boilerplate project! This repository provides a solid foundation for building efficient and maintainable automated tests using the POM design pattern combined with Playwright, a powerful browser automation library.
 _(instead of installing it from NPM it is recommended to clone it from repo instead)_
